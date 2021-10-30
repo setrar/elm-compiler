@@ -32,3 +32,12 @@ Hi, thank you for trying out Elm 0.19.1. I hope you like it!
 ```
 dist-newstyle/build/x86_64-osx/ghc-8.10.7/elm-0.19.1/x/elm/build/elm/elm 
 ```
+
+## :b: compile aarch64
+
+
+```
+<no location info>: error:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM between [9 and 13)
+```
