@@ -35,9 +35,16 @@ dist-newstyle/build/x86_64-osx/ghc-8.10.7/elm-0.19.1/x/elm/build/elm/elm
 
 ## :b: compile aarch64
 
+- [ ] Needs LLVM@9
 
 ```
 <no location info>: error:
     Warning: Couldn't figure out LLVM version!
              Make sure you have installed LLVM between [9 and 13)
+```
+
+- [ ] Install LLVM
+
+```
+brew install llvm 
 ```
