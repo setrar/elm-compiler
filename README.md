@@ -18,11 +18,11 @@ Learning to compile elm
 git clone https://github.com/elm/compiler.git && cd compiler && cabal run
 ```
 
-* Linking
+* Linking (x86_64) on Mac M1
 
 ```
 ...
-Linking /Users/u0000000021/Developer/compiler/dist-newstyle/build/x86_64-osx/ghc-8.10.7/elm-0.19.1/x/elm/build/elm/elm ...
+Linking ~/Developer/compiler/dist-newstyle/build/x86_64-osx/ghc-8.10.7/elm-0.19.1/x/elm/build/elm/elm ...
 Hi, thank you for trying out Elm 0.19.1. I hope you like it!
 ...
 ```
