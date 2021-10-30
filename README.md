@@ -48,3 +48,10 @@ dist-newstyle/build/x86_64-osx/ghc-8.10.7/elm-0.19.1/x/elm/build/elm/elm
 ```
 brew install llvm 
 ```
+
+- [ ] Check architecture `arm64`
+
+```
+% file dist-newstyle/build/aarch64-osx/ghc-8.10.7/elm-0.19.1/x/elm/build/elm/elm
+dist-newstyle/build/aarch64-osx/ghc-8.10.7/elm-0.19.1/x/elm/build/elm/elm: Mach-O 64-bit executable arm64
+```
