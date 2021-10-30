@@ -18,7 +18,7 @@ Learning to compile elm
 git clone https://github.com/elm/compiler.git && cd compiler && cabal run
 ```
 
-* Linking (x86_64) on Mac M1
+* Linking (x86_64) on Mac M1 :heavy_check_mark:
 
 ```
 ...
